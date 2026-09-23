@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">From sensing to motion</title>
+  <desc id="desc">An original vector illustration of a sensor, a controller board, and a motor connected by a single signal path. It illustrates physical computing rather than a particular device.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#121817" opacity=".10"/></pattern>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="5" refY="4" orient="auto"><path d="m1 1 4 3-4 3" fill="none" stroke="#121817" stroke-width="1.3"/></marker>
+  </defs>
+  <rect width="1200" height="760" fill="#f3f2e9"/>
+  <rect x="60" y="60" width="1080" height="640" fill="url(#grid)"/>
+  <path d="M60 103V60h43M1097 60h43v43M1140 657v43h-43M103 700H60v-43" fill="none" stroke="#121817" stroke-width="2"/>
+  <circle cx="1042" cy="141" r="30" fill="#c9f44a"/>
+  <path d="M1029 141h26m-13-13v26" stroke="#121817" stroke-width="2"/>
+  <g fill="none" stroke="#121817" stroke-width="3">
+    <path d="M309 380h133" marker-end="url(#arrow)"/>
+    <path d="M744 380h114" marker-end="url(#arrow)"/>
+  </g>
+  <g transform="translate(140 278)">
+    <rect x="10" y="10" width="160" height="204" rx="18" fill="#121817" opacity=".08"/>
+    <rect width="160" height="204" rx="18" fill="#f3f2e9" stroke="#121817" stroke-width="3"/>
+    <path d="M0 152h160" stroke="#121817" stroke-width="2"/>
+    <circle cx="80" cy="78" r="43" fill="#121817"/>
+    <circle cx="80" cy="78" r="30" fill="#4059ed"/>
+    <circle cx="80" cy="78" r="14" fill="#c9f44a"/>
+    <path d="M54-29a65 65 0 0 1 52 0M42-50a91 91 0 0 1 76 0" fill="none" stroke="#4059ed" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="24" cy="178" r="5" fill="#c9f44a" stroke="#121817" stroke-width="2"/>
+    <path d="M46 178h68" stroke="#121817" stroke-width="2"/>
+    <path d="M47 204v27m22-27v27m22-27v27m22-27v27" stroke="#121817" stroke-width="5"/>
+  </g>
+  <g transform="translate(468 231)">
+    <rect x="10" y="10" width="250" height="298" rx="16" fill="#121817" opacity=".08"/>
+    <rect width="250" height="298" rx="16" fill="#c9f44a" stroke="#121817" stroke-width="3"/>
+    <g fill="#f3f2e9" stroke="#121817" stroke-width="2"><circle cx="22" cy="22" r="6"/><circle cx="228" cy="22" r="6"/><circle cx="22" cy="276" r="6"/><circle cx="228" cy="276" r="6"/></g>
+    <g fill="none" stroke="#121817" stroke-width="2"><path d="M23 99h39v27h33M23 149h72M23 199h39v-24h33M153 99h35V58h33M155 149h67M155 199h33v40h34M104 229v27M127 229v27M150 229v27"/><circle cx="222" cy="58" r="4"/><circle cx="222" cy="239" r="4"/></g>
+    <rect x="79" y="103" width="92" height="92" rx="5" fill="#121817"/>
+    <path d="M96 120h32m-32 11h15" stroke="#f3f2e9" stroke-width="2"/>
+    <circle cx="151" cy="175" r="5" fill="#4059ed"/>
+    <g stroke="#121817" stroke-width="4"><path d="M92 92v11m22-11v11m22-11v11m22-11v11M92 195v12m22-12v12m22-12v12m22-12v12M68 115h11m-11 22h11m-11 22h11m-11 22h11M171 115h11m-11 22h11m-11 22h11m-11 22h11"/></g>
+    <rect x="86" y="37" width="78" height="27" rx="3" fill="#f3f2e9" stroke="#121817" stroke-width="2"/>
+    <path d="M96 50h58" stroke="#121817" stroke-width="2"/>
+  </g>
+  <g transform="translate(877 279)">
+    <path d="M28 169v36h146v-36" fill="#f3f2e9" stroke="#121817" stroke-width="3"/>
+    <rect x="2" y="29" width="190" height="144" rx="15" fill="#4059ed" stroke="#121817" stroke-width="3"/>
+    <path d="M25 31v140m19-140v140m19-140v140" stroke="#121817" stroke-width="2" opacity=".45"/>
+    <ellipse cx="155" cy="101" rx="52" ry="70" fill="#f3f2e9" stroke="#121817" stroke-width="3"/>
+    <ellipse cx="155" cy="101" rx="25" ry="35" fill="#121817"/>
+    <path d="M155 90h64v22h-64" fill="#c9f44a" stroke="#121817" stroke-width="3"/>
+    <path d="M106-5a71 71 0 0 1 77 0m-1-13 3 15-15 2" fill="none" stroke="#121817" stroke-width="2"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#121817" letter-spacing="2"><text x="180" y="602">SENSE</text><text x="543" y="602">CONTROL</text><text x="941" y="602">MOVE</text></g>
+  <path d="M180 636h811" stroke="#121817" stroke-width="1" opacity=".15"/>
+</svg>
